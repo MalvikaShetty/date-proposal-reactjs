@@ -1,9 +1,9 @@
 
 # date-proposal-reactjs
-=======
+=======<br />
 It's a basic React App, which you can totally customize as you like.
 
-Go ahead and ask that person out alreadyyyy!
+Go ahead and ask that person out alreadyyyy!<br />
 Well it definitely works, been there done that, haha.
 
 
