@@ -97,24 +97,6 @@ class Home extends Component {
     //   }
 
     
-
-    // render() { 
-    //     return this.handleSubmit();
-        // (
-        // <div>
-        // <h2>
-        //   Hey there, Ms.Likla Sinha!
-        // </h2>
-        // <h3>Would you like to go on a date with me?</h3>
-        // <span><button style={{fontWeight:'bold',paddingRight:50,paddingLeft:40}}className='btn btn-primary btn-lg m-3'>&nbsp;&nbsp; Yes</button>
-        // <button style={{fontWeight:'bold',paddingRight:50,paddingLeft:40}} className='btn btn-secondary btn-lg'>&nbsp;&nbsp; No &nbsp;&nbsp;</button></span>
-        // </div>
-        // ):
-        // (
-        // <h2>Pls enter passcode :)</h2>
-        // )
-       
-    // }
 }
  
 export default Home;

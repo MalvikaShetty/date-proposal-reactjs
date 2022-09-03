@@ -6,13 +6,13 @@ function Ex() {
     let navigate=useNavigate();
     const [password,setPassword] = useState();
 
-    if (password == 'bitchyou' ) {
+    if (password == '12345' ) {
         return(
          
          <div className="App">
          <header className="App-header">
          <h2>
-           Hey there, Ms. Likla Sinha!
+           Hey there, Ms Jane Doe!
          </h2>
          <h3>Would you like to go on a date with me?🙈👉👈 </h3>
          <span><button style={{fontWeight:'bold',paddingRight:50,paddingLeft:40}} 

@@ -1,6 +1,12 @@
 
 # date-proposal-reactjs
 =======
+It's a basic React App, which you can totally customize as you like.
+
+Go ahead and ask that person out alreadyyyy!
+Well it definitely works, been there done that, haha.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

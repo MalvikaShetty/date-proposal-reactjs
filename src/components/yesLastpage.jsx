@@ -21,7 +21,7 @@ class YesLast extends Component {
       <h2>Can't wait to meet youuu </h2>
       <img src={ImageYesLast} />
       <p>Jk not really</p> 
-      <h3>Alsoo send 'Hey there' after reading this, okay now bye</h3>
+      <h3>Add whatever you want ;)</h3>
        
        
       </div>
