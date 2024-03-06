@@ -1,11 +1,9 @@
 
 # date-proposal-reactjs
-=======<br />
-It's a basic React App, which you can totally customize as you like.
 
-Go ahead and ask that person out alreadyyyy!<br />
-Well it definitely works, been there done that, haha.
+It's a React App, like a questionaire to which leads to the next page based on the answer. You can totally customize as you like.
 
+Go ahead and ask that person out already!<br />
 
 # Getting Started with Create React App
 
